@@ -4,17 +4,17 @@
 
 1. GET YOUR IMAGE AND HOST IT USING https://postimg.cc/ AND COPY DIRECT LINK.
 2. OPEN ad-banners.json AND ADD THE NEW OBJECT AS BELOW :
-      ,{  
+     `` ,{  
       "id": (add/banner number),
       "imagePath": (IMAGE LINK IN DOUBLE QUOTES),
       "link": (PROJECT LINK IN DOUBLE QUOTES)
-      }
-FOR EXAMPLE (2 BANNER) :
-      ,{  
+      }``
+FOR EXAMPLE (2ND BANNER) :
+      ``,{  
       "id": 2,
       "imagePath": "https://i.postimg.cc/rsXg7jGb/ad.gif",
       "link": "https:/marvin-ecosystem.com"
-       }
+       }``
 
 NOTE: DON'T FORGET THE COMMA BEFORE THE OBJECT.
 
