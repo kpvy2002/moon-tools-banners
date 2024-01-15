@@ -2,7 +2,7 @@
   "banners": [
     {  
       "id": 1,
-      "imagePath": "./ad1.gif",
+      "imagePath": "https://i.postimg.cc/rsXg7jGb/ad.gif",
       "link": "https:/marvin-ecosystem.com"
     }
   ]
